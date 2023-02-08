@@ -17,7 +17,8 @@ Home Page Look:
 Benefits for e-commerce: FashCam visual search improves product discovery and purchase experience leading to higher conversions and revenue for eCommerce brands. 
 
 Customers can search for products using images, resulting in a quicker and more accurate path to purchase. 
-Upload an Image :
+
+Upload an Image:
 ![image](https://user-images.githubusercontent.com/113503622/217515103-2f1a041c-1c42-4613-a8ff-930369186e4a.png)
 
 
