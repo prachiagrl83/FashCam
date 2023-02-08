@@ -38,11 +38,11 @@ Take a Picture:
 
 ![image](https://user-images.githubusercontent.com/113503622/217515985-36cdb244-fa44-4e0b-99e0-5859b2b923b2.png)
 
-
 Current Limitations & Improvement : It takes up to a couple of seconds to load the results .
 Limited collection of recommended products.
 It may missclasifes noizy, unclear or blurry pictures.
 
+[FashCam - a Reverse Image Search Engine.pptx](https://github.com/prachiagrl83/FashCam/files/10687741/FashCam.-.a.Reverse.Image.Search.Engine.pptx)
 
 
 
