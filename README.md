@@ -17,6 +17,14 @@ Customers can search for products using images, resulting in a quicker and more 
 
 The unique and easy search experience offered by FashCam drives product sales and boost revenue.
 
+![image](https://user-images.githubusercontent.com/113503622/217513880-84edb43f-8603-43f7-8110-1ec45d56eea2.png)
+
+Current Limitations & Improvement : It takes up to a couple of seconds to load the results .
+Limited collection of recommended products.
+It may missclasifes noizy, unclear or blurry pictures.
+
+
+
 
 
 
