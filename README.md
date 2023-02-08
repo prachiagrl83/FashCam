@@ -42,7 +42,8 @@ Current Limitations & Improvement : It takes up to a couple of seconds to load t
 Limited collection of recommended products.
 It may missclasifes noizy, unclear or blurry pictures.
 
-[FashCam - a Reverse Image Search Engine.pptx](https://github.com/prachiagrl83/FashCam/files/10687741/FashCam.-.a.Reverse.Image.Search.Engine.pptx)
+[FashCam - a Reverse Image Search Engine.pdf](https://github.com/prachiagrl83/FashCam/files/10689143/FashCam.-.a.Reverse.Image.Search.Engine.pdf)
+
 
 
 
