@@ -23,8 +23,9 @@ Upload an Image:
 
 
 The unique and easy search experience offered by FashCam drives product sales and boost revenue.
+Take a Picture:
+![image](https://user-images.githubusercontent.com/113503622/217515985-36cdb244-fa44-4e0b-99e0-5859b2b923b2.png)
 
-![image](https://user-images.githubusercontent.com/113503622/217513880-84edb43f-8603-43f7-8110-1ec45d56eea2.png)
 
 Current Limitations & Improvement : It takes up to a couple of seconds to load the results .
 Limited collection of recommended products.
