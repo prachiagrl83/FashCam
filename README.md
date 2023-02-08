@@ -23,6 +23,7 @@ Upload an Image:
 
 
 The unique and easy search experience offered by FashCam drives product sales and boost revenue.
+
 Take a Picture:
 ![image](https://user-images.githubusercontent.com/113503622/217515985-36cdb244-fa44-4e0b-99e0-5859b2b923b2.png)
 
