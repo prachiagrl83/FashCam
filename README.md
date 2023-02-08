@@ -1,10 +1,20 @@
 FashCam - An Image Recognition Search Engine
 
-Refer Selfclicked and noisy images from https://github.com/alexeygrigorev/clothing-dataset
+Dataset: Refer Selfclicked and noisy images from https://github.com/alexeygrigorev/clothing-dataset
 
 For neat n clean images please find attached images and stylecsv files and you can refer images folder for some and for all images you can refer and download from https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 ![image](https://user-images.githubusercontent.com/113503622/217513369-2ad0b953-6588-450e-8657-4493b9d650f7.png)
+
+Library:
+Python
+Numpy
+Pandas
+Sklearn
+Seaborn
+tensorflow
+keras
+PIL
 
 About : FashCam is one of the powerful reverse image search engines. 
 With this:
