@@ -1,4 +1,5 @@
 **FashCam - An Image Recognition Search Engine**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Dataset**: Refer Selfclicked and noisy images from https://github.com/alexeygrigorev/clothing-dataset
 
@@ -8,6 +9,7 @@ For neat n clean images please find attached images and stylecsv files and you c
 
 **Tools Used**:
 Library:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Python
 Numpy
 Pandas
@@ -16,6 +18,12 @@ Seaborn
 tensorflow
 keras
 PIL
+
+Model:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CNN (Convolutional Neural Network) for Classification
+Cosine Similarity
+
 
 **About** : FashCam is one of the powerful reverse image search engines. 
 With this:
