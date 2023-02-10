@@ -21,29 +21,29 @@ Library:
 
 Model:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-CNN (Convolutional Neural Network) for Classification
-Cosine Similarity
+1. CNN (Convolutional Neural Network) for Classification
+2. Cosine Similarity
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **About** : FashCam is one of the powerful reverse image search engines. 
 With this:
 
 Customers can easily upload a picture of the desired item or take a live picture, select the piece of object with the help of crop feature so this engine can find exactly the same or similar fashion goods.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Home Page Look**:
 ![image](https://user-images.githubusercontent.com/113503622/217514556-d7c4ab69-99d6-42ef-9d04-e030eddd583d.png)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Benefits for e-commerce**: FashCam visual search improves product discovery and purchase experience leading to higher conversions and revenue for eCommerce brands. 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Customers can search for products using images, resulting in a quicker and more accurate path to purchase. 
 
 The unique and easy search experience offered by FashCam drives product sales and boost revenue.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Upload an Image**:
 
 ![image](https://user-images.githubusercontent.com/113503622/217516388-6b2707df-eb48-46bc-975a-2b33fb61d052.png)
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Take a Picture**:
 
 ![image](https://user-images.githubusercontent.com/113503622/217515985-36cdb244-fa44-4e0b-99e0-5859b2b923b2.png)
