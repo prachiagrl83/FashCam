@@ -10,14 +10,14 @@ For neat n clean images please find attached images and stylecsv files and you c
 **Tools Used**:
 Library:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Python
-Numpy
-Pandas
-Sklearn
-Seaborn
-tensorflow
-keras
-PIL
+1. Python
+2. Numpy
+3. Pandas
+4. Sklearn
+5. Seaborn
+6. Tensorflow
+7. Keras
+8. PIL
 
 Model:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
