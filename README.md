@@ -29,7 +29,7 @@ Library:
 With this:
 
 Customers can easily upload a picture of the desired item or take a live picture, select the piece of object with the help of crop feature so this engine can find exactly the same or similar fashion goods.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Home Page Look**:
 ![image](https://user-images.githubusercontent.com/113503622/217514556-d7c4ab69-99d6-42ef-9d04-e030eddd583d.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
