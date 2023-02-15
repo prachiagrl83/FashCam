@@ -47,8 +47,10 @@ Customers can easily upload a picture of the desired item or take a live picture
 
 ![image](https://user-images.githubusercontent.com/113503622/217515985-36cdb244-fa44-4e0b-99e0-5859b2b923b2.png)
 
-**Current Limitations & Improvement** : 1. It takes up to a couple of seconds to load the results .
+**Current Limitations & Improvement** : 1. It takes up to a couple of seconds to load the results.
+
 2. Limited collection of recommended products.
+
 3. It may missclasifes noizy, unclear or blurry pictures.
 
 [FashCam - a Reverse Image Search Engine.pdf](https://github.com/prachiagrl83/FashCam/files/10689143/FashCam.-.a.Reverse.Image.Search.Engine.pdf)
